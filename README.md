@@ -1,4 +1,4 @@
-<img src="https://cdn.dribbble.com/users/2064122/screenshots/5274205/media/19f53e0da2024d2a635de2881c52e75b.gif"></img>
+
 <h1 align="center">Hi 👋, I'm Toyash Patil</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
