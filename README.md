@@ -1,4 +1,4 @@
-<img align="center" src="![banner 2](https://github.com/Toyashpatil/Toyashpatil/assets/127873655/cdb22700-a258-45d4-8a01-611cb3abc95e)"
+<img align="center" src="![banner 2](https://github.com/Toyashpatil/Toyashpatil/assets/127873655/7b714aa4-9e38-41e9-b8fb-3b3a651a1541)"
  alt="tech" />
 <h1 align="center">Hi 👋, I'm Toyash Patil</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
