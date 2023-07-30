@@ -1,5 +1,4 @@
-<img align="center" src="![banner 2](https://github.com/Toyashpatil/Toyashpatil/assets/127873655/7b714aa4-9e38-41e9-b8fb-3b3a651a1541)"
- alt="tech" />
+<img src="https://static.vecteezy.com/system/resources/previews/000/677/302/original/abstract-technology-banner-background.jpg" />
 <h1 align="center">Hi 👋, I'm Toyash Patil</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
