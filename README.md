@@ -1,4 +1,5 @@
-<img align="center" src="https://png.pngtree.com/thumb_back/fh260/background/20201028/pngtree-abstract-technology-background-technical-electric-image_443494.jpg" alt="tech" />
+<img align="center" src="![banner 2](https://github.com/Toyashpatil/Toyashpatil/assets/127873655/cdb22700-a258-45d4-8a01-611cb3abc95e)"
+ alt="tech" />
 <h1 align="center">Hi 👋, I'm Toyash Patil</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
