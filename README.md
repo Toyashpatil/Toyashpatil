@@ -6,8 +6,6 @@
 
 - 📫 How to reach me **toyashpatil17@gmail.com**
 
-// - 📄 Know about my experiences [Toyash_Resume](https://drive.google.com/file/d/1EZ8m4dcR_RbRkl2YkmPiHkcDo_-A1TTr/view?usp=drive_link) 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/toyashpatil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="toyashpatil" height="30" width="40" /></a>
