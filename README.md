@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **toyashpatil17@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1hbIK6Mf71D5snsJgLYslez_DIqaQwZR6/view?usp=sharing](https://drive.google.com/file/d/1hbIK6Mf71D5snsJgLYslez_DIqaQwZR6/view?usp=sharing)
+- 📄 Know about my experiences [Toyash_Resume](https://drive.google.com/file/d/1EZ8m4dcR_RbRkl2YkmPiHkcDo_-A1TTr/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
